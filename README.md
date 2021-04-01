@@ -7,6 +7,7 @@ This repo is a homage to the Unix/Linux [message of the day](https://en.wikipedi
 <img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/chrisadkin/qotd/blob/main/images/Capture3.PNG?raw=true">
 <img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/chrisadkin/qotd/blob/main/images/Capture4.PNG?raw=true">
 <img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/chrisadkin/qotd/blob/main/images/Capture5.PNG?raw=true">
+<img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/chrisadkin/qotd/blob/main/images/Capture6.PNG?raw=true">
 
 # Deployment Instructions
 
